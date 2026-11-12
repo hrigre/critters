@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1794495455|4989208';
+const CACHE_VERSION = '1794500695|5238059';
 /** @type {string} */
 const CACHE_PREFIX = 'Critter Cascade-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
